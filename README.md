@@ -1,0 +1,2 @@
+# beyblade-privacy
+Privacy Policy
